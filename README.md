@@ -1,4 +1,4 @@
-## Hi there 👋
+## Gill Potter's Git Hub
 
 <!--
 **pottegil/pottegil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Mostly this account is to house a buunch of personal repos.  The public bits are to provide web serving of my case studies and explainers that are linked in [Gill Potter](https://www.gill-potter.com/).
